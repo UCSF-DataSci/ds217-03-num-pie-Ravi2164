@@ -1,0 +1,12 @@
+====Health Data Analysis Report====
+Total Readings: 50000
+
+>>Averages:
+Average Temperature: 98.3 °F
+Average Heart Rate: 80.1 bpm
+Average Glucose Level: 99.9 mg/dL
+Average Systolic BP: 125.0 mmHg
+Average Diastolic BP: 80.0 mmHg
+High heart rate readings (>90 bpm): 12386
+High systolic blood pressure readings (>130 mmHg): 16180
+High glucose level readings (>110 mg/dL): 16258
